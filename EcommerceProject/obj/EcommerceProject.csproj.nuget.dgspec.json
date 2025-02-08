@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omarm\\OneDrive\\Desktop\\EcommerceProject\\EcommerceProject\\EcommerceProject.csproj": {}
+    "C:\\Users\\omarm\\OneDrive\\Desktop\\ECommerce-API\\EcommerceProject\\EcommerceProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omarm\\OneDrive\\Desktop\\EcommerceProject\\EcommerceProject\\EcommerceProject.csproj": {
+    "C:\\Users\\omarm\\OneDrive\\Desktop\\ECommerce-API\\EcommerceProject\\EcommerceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omarm\\OneDrive\\Desktop\\EcommerceProject\\EcommerceProject\\EcommerceProject.csproj",
+        "projectUniqueName": "C:\\Users\\omarm\\OneDrive\\Desktop\\ECommerce-API\\EcommerceProject\\EcommerceProject.csproj",
         "projectName": "EcommerceProject",
-        "projectPath": "C:\\Users\\omarm\\OneDrive\\Desktop\\EcommerceProject\\EcommerceProject\\EcommerceProject.csproj",
+        "projectPath": "C:\\Users\\omarm\\OneDrive\\Desktop\\ECommerce-API\\EcommerceProject\\EcommerceProject.csproj",
         "packagesPath": "C:\\Users\\omarm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omarm\\OneDrive\\Desktop\\EcommerceProject\\EcommerceProject\\obj\\",
+        "outputPath": "C:\\Users\\omarm\\OneDrive\\Desktop\\ECommerce-API\\EcommerceProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
